@@ -8,6 +8,10 @@
 
 ## 技术堆栈
 
+* [Gradle](https://gradle.org/)
+
+  > 构建工具
+
 * Spring Boot 2.3.3.RELEASE
 
 * Spring Security+JWT
